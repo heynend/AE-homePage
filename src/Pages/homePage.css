@@ -1,0 +1,98 @@
+.homePage {
+    height: 850px;
+    background: #f4f4f4;
+}
+
+.home-nav-bar {
+    height: 125px;
+    background: #122B3B;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+
+.create-project-button {
+    position: relative;
+    left: 200px;
+    color: white;
+    width: 200px;
+
+    font-family: 'Barlow';
+    font-style: normal;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.search-bar {
+    position: relative;
+    right: 200px;
+
+    font-family: 'Barlow';
+    font-style: normal;
+    font-size: 20px;
+
+    display: grid;
+    place-items: center;
+}
+
+.search-bar-border {
+    position: relative;
+    width: 200px;
+    height: 50px;
+
+    background: #22b161;
+    border-radius: 10px;
+
+    display: grid;
+    place-items: center;
+}
+
+.search-bar-input{
+    border-radius: 5px;
+    width: 185px;
+    height: 35px;
+    border: none;
+}
+
+.body-properties{
+    display: grid;
+    place-items: center;
+}
+
+.recent-projects-text{
+    position: relative;
+    right: 550px;
+    top: 10px;
+
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+}
+
+.green-dash{
+    position: relative;
+    height: 5px;
+    width: 1400px;
+    top: 10px;
+    background: #22b161;
+    box-shadow: 0px 2.5px 2.5px rgba(0, 0, 0, 0.25);
+}
+
+.body{
+    position: relative;
+    top: 30px;
+    width: 1400px;
+    height: 660px;
+    background: #FFFFFF;
+}
+
+.logo2-positioning{
+    position: relative;
+    width: 400px;
+    bottom: 100px;
+}

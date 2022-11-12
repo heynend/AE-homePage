@@ -1,0 +1,5 @@
+.estimatePage {
+    position: relative;
+    display: grid;
+    place-items: center;
+}

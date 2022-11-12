@@ -1,0 +1,104 @@
+/* Project reation Page CSS */
+.projectCreationPage {
+    height: 850px;
+    background: #f4f4f4;
+}
+
+.project-creation-nav-bar{
+    height: 125px;
+    background: #122B3B;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+
+.home-text {
+    position: relative;
+    left: 200px;
+    width: 200px;
+
+    font-family: 'Barlow';
+    font-style: normal;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.create-project-text {
+    position: relative;
+    right: 200px;
+    width: 200px;
+
+    font-family: 'Barlow';
+    font-style: normal;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.new-project-creation-text{
+    position: relative;
+    top: 10px;
+
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+}
+
+.body-new-project {
+    position: relative;
+    top: 30px;
+    width: 1400px;
+    height: 660px;
+    background: #FFFFFF;
+
+    display: grid;
+    place-items: center;
+}
+
+.input-body {
+    width: 900px;
+    height: 70px;
+
+    background: #22b161;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.input-id-text {
+    position: relative;
+    left: 25px;
+
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.input-field {
+    position: relative;
+    width: 450px;
+    height: 50px;
+    right: 25px;
+    border: none;
+
+    background: #FFFFFF;
+    border-radius: 5px;
+
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.logo2-positioning-projcre {
+    position: relative;
+    width: 400px;
+}
