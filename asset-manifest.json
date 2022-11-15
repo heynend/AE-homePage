@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AE-homePage/static/css/main.bb097543.css",
-    "main.js": "/AE-homePage/static/js/main.40330fa0.js",
+    "main.js": "/AE-homePage/static/js/main.4ac36675.js",
     "static/media/augustoLogo1.png": "/AE-homePage/static/media/augustoLogo1.15ac64ffd781ad3482e9.png",
     "static/media/augustoLogo2.png": "/AE-homePage/static/media/augustoLogo2.c07c508871b489be6ebd.png",
     "index.html": "/AE-homePage/index.html",
     "main.bb097543.css.map": "/AE-homePage/static/css/main.bb097543.css.map",
-    "main.40330fa0.js.map": "/AE-homePage/static/js/main.40330fa0.js.map"
+    "main.4ac36675.js.map": "/AE-homePage/static/js/main.4ac36675.js.map"
   },
   "entrypoints": [
     "static/css/main.bb097543.css",
-    "static/js/main.40330fa0.js"
+    "static/js/main.4ac36675.js"
   ]
 }
