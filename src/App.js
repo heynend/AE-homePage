@@ -21,7 +21,7 @@ export default function App() {
       <Router>
         <Routes>
           
-          <Route path='/' element={ <HomePage/> } />
+          <Route path='/AE-homePage' element={ <HomePage/> } />
           <Route path='/project-creation' element={ <ProjectCreationPage/> } />
           <Route path='/worksheet' element={ <WorksheetPage/> } />
           <Route path='/resource-plan' element={ <ResourcePlanPage/> } />
