@@ -18,10 +18,10 @@ import EstimatePage from './Pages/EstimatePage';
 export default function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Routes>
           
-          <Route path='/AE-homePage' element={ <HomePage/> } />
+          <Route path='/' element={ <HomePage/> } />
           <Route path='/project-creation' element={ <ProjectCreationPage/> } />
           <Route path='/worksheet' element={ <WorksheetPage/> } />
           <Route path='/resource-plan' element={ <ResourcePlanPage/> } />

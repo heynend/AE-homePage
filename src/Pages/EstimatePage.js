@@ -6,7 +6,7 @@ export default function EstimatePage() {
     const navigate = useNavigate();
 
     const handleHomeButton = () => {
-        navigate('/AE-homePage');
+        navigate('/');
     }
     const handleWorksheetButton = () => {
         navigate('/worksheet');

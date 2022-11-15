@@ -7,7 +7,7 @@ export default function ProjectCreationPage() {
     //page navigation
     const navigate = useNavigate();
     const handleHomeButton = () => {
-        navigate('/AE-homePage');
+        navigate('/');
     }
     const handleOpenProjectButton = () => {
         navigate('/worksheet');
